@@ -1,6 +1,6 @@
 ---
 title : "Đảm bảo truy cập Hybrid an toàn đến S3 bằng cách sử dụng VPC endpoint"
-date :  "`r Sys.Date()`" 
+date: 2024-01-01
 weight : 1 
 chapter : false
 ---
