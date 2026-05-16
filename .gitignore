@@ -36,3 +36,6 @@ coverage/
 .nyc_output/
 htmlcov/
 
+
+# Hugo build output
+public/
