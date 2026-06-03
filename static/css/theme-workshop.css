@@ -201,22 +201,21 @@ div.notices.info p {
 
 #logo {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    gap: 6px;
+    gap: 10px;
 }
 
 #logo img.asbg-logo {
-    width: 48px;
-    height: 48px;
+    width: 36px;
+    height: 36px;
 }
 
 #logo .asbg-title {
     color: #ffffff;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 600;
     letter-spacing: 0.3px;
-    text-align: center;
 }
