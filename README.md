@@ -6,23 +6,23 @@
 
 ---
 
-Template Hugo dung de tao workshop cho AWS Student Builder Group. Repo nay chua san cau truc, theme, va branding de cac thanh vien co the fork va viet workshop cua rieng minh.
+A Hugo-based workshop template for AWS Student Builder Group members. This repository provides a ready-to-use structure, theme, and branding so members can fork and create their own workshops.
 
-## Huong dan su dung
+## How to Use
 
-1. Fork repo nay ve account/org cua ban
-2. Thay doi noi dung trong thu muc `content/` theo workshop cua ban
-3. Cap nhat `config.toml` (title, description, links)
-4. Push len GitHub - site se tu dong deploy qua GitHub Pages
+1. Fork this repository to your account or organization
+2. Update content in the `content/` directory with your workshop material
+3. Edit `config.toml` to change title, description, and links
+4. Push to GitHub - the site will auto-deploy via GitHub Pages
 
-## Chay local
+## Run Locally
 
 ```bash
-# Clone repo
+# Clone the repo
 git clone <repo-url>
 cd <repo-folder>
 
-# Cai Hugo (neu chua co)
+# Install Hugo (if not installed)
 # macOS
 brew install hugo
 # Windows
@@ -30,35 +30,41 @@ choco install hugo
 # Ubuntu
 sudo apt-get install hugo
 
-# Chay local server
+# Start local server
 hugo server -D
 ```
 
-Truy cap http://localhost:1313 de xem ket qua.
+Visit http://localhost:1313 to preview.
 
-## Cau truc thu muc
+## Directory Structure
 
 ```
-content/           # Noi dung workshop (markdown)
-static/            # Hinh anh va static assets
+content/           # Workshop content (markdown)
+static/            # Images and static assets
 themes/            # Hugo theme
 layouts/           # Custom layout overrides
-config.toml        # Cau hinh Hugo
-.github/workflows/ # GitHub Actions deploy
+config.toml        # Hugo configuration
+.github/workflows/ # GitHub Actions deployment
 ```
 
-## Deploy
+## Deployment
 
-Repo da co san GitHub Actions workflow. Chi can enable GitHub Pages (source: GitHub Actions) tren repo settings la site se tu dong build va deploy moi khi push len main.
+This repo includes a GitHub Actions workflow. Enable GitHub Pages (source: GitHub Actions) in your repo settings and the site will automatically build and deploy on every push to main.
 
-## Ho tro
+## Multi-language Support
+
+The template supports multiple languages out of the box:
+- English (default)
+- Vietnamese
+
+## Support
 
 - AWS Student Builder Group: https://www.facebook.com/groups/awsstudentbuildergroupvn/
 - AWS Study Group: https://awsstudygroup.com
 
 ## License
 
-Repo nay phuc vu muc dich giao duc trong chuong trinh AWS Student Builder Group.
+This repository is provided for educational purposes within the AWS Student Builder Group program.
 
 ---
 
