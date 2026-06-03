@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Secure Hybrid Access to S3 using VPC Endpoints</title>
+    <title>Secure Hybrid Access to S3 using VPC Endpoints on AWS Student Builder Group - Workshop Template</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Secure Hybrid Access to S3 using VPC Endpoints</description>
+    <description>Recent content in Secure Hybrid Access to S3 using VPC Endpoints on AWS Student Builder Group - Workshop Template</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>

@@ -10,7 +10,7 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "workshop"
   # Git hub repo link
   editURL = ""
-  description = "AWS Student Builder Group Workshop"
+  description = "AWS Student Builder Group - Workshop Template"
   author = "AWS Student Builder Group"
   showVisitedLinks = true
   disableBreadcrumb = false
@@ -18,7 +18,7 @@ home = [ "HTML", "RSS", "JSON"]
   
 [Languages]
 [Languages.en]
-title = "Secure Hybrid Access to S3 using VPC Endpoints"
+title = "AWS Student Builder Group - Workshop Template"
 weight = 1
 languageName = "English"
 
@@ -41,7 +41,7 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 30
 
 [Languages.vi]
-title = "Đảm bảo truy cập Hybrid an toàn đến S3 bằng cách sử dụng VPC endpoint"
+title = "AWS Student Builder Group - Workshop Template"
 weight = 2
 languageName = "Tiếng Việt"
 
