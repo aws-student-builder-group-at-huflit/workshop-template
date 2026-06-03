@@ -10,8 +10,8 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "workshop"
   # Git hub repo link
   editURL = ""
-  description = ""
-  author = "journeyoftheaverageguy@gmail.com"
+  description = "AWS Student Builder Group Workshop"
+  author = "AWS Student Builder Group"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
@@ -23,16 +23,22 @@ weight = 1
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-facebook'></i> AWS Student Builder Group"
+identifier = "AWS Student Builder Group"
+url = "https://www.facebook.com/groups/awsstudentbuildergroupvn/"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
 identifier = "AWS Study Group"
-url = "https://aws.amazon.com/blogs"
+url = "https://awsstudygroup.com"
 weight = 20
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group - FB Group"
 identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj"
-weight = 20
+weight = 30
 
 [Languages.vi]
 title = "Đảm bảo truy cập Hybrid an toàn đến S3 bằng cách sử dụng VPC endpoint"
@@ -40,14 +46,19 @@ weight = 2
 languageName = "Tiếng Việt"
 
 [[Languages.vi.menu.shortcuts]]
+name = "<i class='fab fa-facebook'></i> AWS Student Builder Group"
+identifier = "AWS Student Builder Group"
+url = "https://www.facebook.com/groups/awsstudentbuildergroupvn/"
+weight = 10
+
+[[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
 identifier = "AWS Study Group"
-url = "http://awsstudygroup.com"
+url = "https://awsstudygroup.com"
 weight = 20
 
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group - Nhóm FB"
 identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj"
-weight = 20
-
+weight = 30

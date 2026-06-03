@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/3-s3-vpc/3.1-create-gwe/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -15,6 +16,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/1-workshop-overview/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -27,6 +29,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/4-s3-onprem/4.1-prepare/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -39,6 +42,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -51,6 +55,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/4-s3-onprem/4.2-create-interface-enpoint/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -63,6 +68,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/2-prerequiste/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -75,6 +81,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/3-s3-vpc/3.2-test-gwe/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -87,6 +94,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/3-s3-vpc/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -99,6 +107,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/4-s3-onprem/4.3-test-endpoint/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -111,6 +120,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/4-s3-onprem/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -123,6 +133,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/4-s3-onprem/4.4-dns-simulation/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -135,6 +146,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/5-policy/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -147,6 +159,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/6-cleanup/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
